@@ -46,7 +46,6 @@ Simplifying terms like "start" instead of "initiate" can greatly enhance readabi
 - **"Start"** is a familiar, everyday term that most people understand, regardless of their background.
 - **"Initiate"** is more formal and can sound like jargon to non-technical users, potentially causing confusion.
 
-In technical writing, choosing simpler synonyms ensures your message is **clear and accessible** to a broader audience.
 
 ---
 
